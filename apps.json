@@ -3,16 +3,17 @@
   "identifier": "com.w33mcn.livecontainer",
   "subtitle": "Some Cool App Inside-CHILL",
   "description": "My personal LiveContainer source",
+  "iconURL": "https://static.gwvkyk.com/media/978c62a034ca636ca151a.png",
   "apps": [
-{
-  "name": "MaxMusic",
-  "bundleIdentifier": "com.google.ios.youtubemusic",
-  "developerName": "Mark02-2012",
-  "subtitle": "YouTube Music with MaxMusic",
-  "version": "9.37.2",
-  "versionDescription": "MaxMusic 2.4.1 for YouTube Music 9.37.2",
-  "downloadURL": "https://github.com/Mark02-2012/MaxMusic/releases/download/MaxMusic_9.37.2_2.4.1_(93)/MaxMusic_2.4.1_9.37.2.ipa",
-  "iconURL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/YouTube_Music_logo_without_text.png"
-}
+    {
+      "name": "MaxMusic",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Mark02-2012",
+      "subtitle": "YouTube Music with MaxMusic",
+      "version": "9.37.2",
+      "versionDescription": "MaxMusic 2.4.1 for YouTube Music 9.37.2",
+      "downloadURL": "https://github.com/Mark02-2012/MaxMusic/releases/download/MaxMusic_9.37.2_2.4.1_(93)/MaxMusic_2.4.1_9.37.2.ipa",
+      "iconURL": "https://static.gwvkyk.com/media/72a405af24ca64ba07db0.png"
+    }
   ]
 }
