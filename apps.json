@@ -2,7 +2,7 @@
   "name": "w88 Library",
   "identifier": "com.w33mcn.livecontainer",
   "subtitle": "Some Cool App Inside-CHILL",
-  "description": "My personal LiveContainer source",
+  "description": "My personal source",
   "iconURL": "https://static.gwvkyk.com/media/978c62a034ca636ca151a.png",
   "apps": [
     {
@@ -24,6 +24,26 @@
       "versionDescription": "动漫共和国IPA Demo 旧版本",
       "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.0/dmghg.ipa",
       "iconURL": "https://static.gwvkyk.com/media/d74ac99434ca64c7447d2.png"
-    }
+    },
+    {
+      "name": "UZ影视",
+      "bundleIdentifier": "com.uzvideoapp2",
+      "developerName": "w33-mcxn",
+      "subtitle": "追剧、直播、下载、无广、投屏",
+      "version": "1.6.78",
+      "versionDescription": "修复部分已知 bug",
+      "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.6.78/uz.1.6.78.ipa",
+      "iconURL": "https://static.gwvkyk.com/media/ac5fc80834ca6d1cbb2e5.png"
+    } 
+    {
+      "name": "UZN影视",
+      "bundleIdentifier": "com.example.uzn",
+      "developerName": "w33-mcxn",
+      "subtitle": "uz新版追剧、直播、下载、无广、投屏",
+      "version": "1.1.8",
+      "versionDescription": "新增-优化-修复",
+      "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.1.8/uzn1.1.8.ipa",
+      "iconURL": "https://static.gwvkyk.com/media/7fc4d61934ca698d66882.png"
+    } 
   ]
 }
