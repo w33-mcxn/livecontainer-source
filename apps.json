@@ -1,0 +1,17 @@
+{
+  "name": "My LiveContainer Source",
+  "identifier": "com.w33mcn.livecontainer",
+  "subtitle": "My Apps",
+  "description": "My personal LiveContainer source",
+  "apps": [
+    {
+      "name": "MaxMusic",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Mark02-2012",
+      "subtitle": "YouTube Music with MaxMusic",
+      "version": "9.37.2",
+      "versionDescription": "MaxMusic 2.4.1 for YouTube Music 9.37.2",
+      "downloadURL": "https://github.com/Mark02-2012/MaxMusic/releases/download/MaxMusic_9.37.2_2.4.1_(93)/MaxMusic_2.4.1_9.37.2.ipa"
+    }
+  ]
+}
