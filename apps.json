@@ -49,6 +49,17 @@
       "versionDescription": "新增-优化-修复",
       "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.1.8/uzn1.1.8.ipa",
       "iconURL": "https://static.gwvkyk.com/media/7fc4d61934ca698d66882.png"
-    }
+    },
+    {
+      "name": "LightRoom",
+      "bundleIdentifier": "com.adobe.lrmobile",
+      "developerName": "w33-mcxn",
+      "subtitle": "IOS-LR-Free",
+      "version": "9.1.1",
+      "versionDate": "2026-10-06",
+      "versionDescription": "内置免",
+      "downloadURL": "https://github.com/ozedge9official-beep/oliva/releases/download/v9.1.1/Lightroom_9.1.1_._iPad_iOS.ipa",
+      "iconURL": "https://static.gwvkyk.com/media/aac63e0044ca6bcca8541.png"
+    },
   ]
 }
