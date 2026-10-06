@@ -3,6 +3,7 @@
   "identifier": "com.w33mcn.livecontainer",
   "subtitle": "Some Cool App Inside-CHILL",
   "description": "My personal source",
+  "sourceURL": "https://raw.githubusercontent.com/w33-mcxn/livecontainer-source/main/apps.json",
   "iconURL": "https://static.gwvkyk.com/media/978c62a034ca636ca151a.png",
   "apps": [
     {
@@ -11,6 +12,7 @@
       "developerName": "Mark02-2012",
       "subtitle": "YouTube Music with MaxMusic",
       "version": "9.37.2",
+      "versionDate": "2026-09-15",
       "versionDescription": "MaxMusic 2.4.1 for YouTube Music 9.37.2",
       "downloadURL": "https://github.com/Mark02-2012/MaxMusic/releases/download/MaxMusic_9.37.2_2.4.1_(93)/MaxMusic_2.4.1_9.37.2.ipa",
       "iconURL": "https://static.gwvkyk.com/media/72a405af24ca64ba07db0.png"
@@ -21,6 +23,7 @@
       "developerName": "w33-mcxn",
       "subtitle": "动漫共和国IOS",
       "version": "1.0.0",
+      "versionDate": "2026-10-06",
       "versionDescription": "动漫共和国IPA Demo 旧版本",
       "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.0/dmghg.ipa",
       "iconURL": "https://static.gwvkyk.com/media/d74ac99434ca64c7447d2.png"
@@ -31,6 +34,7 @@
       "developerName": "w33-mcxn",
       "subtitle": "追剧、直播、下载、无广、投屏",
       "version": "1.6.78",
+      "versionDate": "2026-10-06",
       "versionDescription": "修复部分已知 bug",
       "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.6.78/uz.1.6.78.ipa",
       "iconURL": "https://static.gwvkyk.com/media/ac5fc80834ca6d1cbb2e5.png"
@@ -41,9 +45,10 @@
       "developerName": "w33-mcxn",
       "subtitle": "uz新版追剧、直播、下载、无广、投屏",
       "version": "1.1.8",
+      "versionDate": "2026-10-06",
       "versionDescription": "新增-优化-修复",
       "downloadURL": "https://github.com/w33-mcxn/livecontainer-source/releases/download/v1.1.8/uzn1.1.8.ipa",
       "iconURL": "https://static.gwvkyk.com/media/7fc4d61934ca698d66882.png"
-    } 
+    }
   ]
 }
